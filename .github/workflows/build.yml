@@ -17,7 +17,7 @@ jobs:
       - name: Clone esp8266_deauther
         uses: actions/checkout@v2
         with:
-          repository: 'SpacehuhnTech/esp8266_deauther'
+          repository: 'back20/esp8266_deauther'
           ref: 'v2'
 
       - name: Install Arduino CLI
