@@ -17,3 +17,5 @@
 4. Flash it by running `esptool.py -p <PORT> -b 115200 write_flash 0 <BIN_FILE>`.  
    Be sure to replace `<PORT>` with the serial port  
    and `<BIN_FILE>` with the path of the previously download .bin file.
+
+
